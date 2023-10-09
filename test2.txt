@@ -1,3 +1,2 @@
 first commit in test2
 second commit in test2
-third commit in test2
